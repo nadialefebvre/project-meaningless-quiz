@@ -1,4 +1,6 @@
-# Week 13: Redux quiz
+# Project Meaningless Quiz
+
+Weekly project for Technigo's bootcamp, week 13: build a quiz
 
 This week's project was a group project where we had to build a multiple choice quiz using Redux.
 
