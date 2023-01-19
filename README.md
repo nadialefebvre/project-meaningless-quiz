@@ -17,3 +17,7 @@ If we had more time, we would have implemented a progress bar, but we are really
 Project deployed here: [Meaningless Quiz](https://meaningless-quiz.netlify.app/)
 
 Group project: Joanna Ringqvist, Laura Sjölander, Mauricio Urra, Nadia Lefebvre, Rijad Ilijazagic
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
