@@ -1,10 +1,19 @@
 # Project Meaningless Quiz
 
-Weekly project for Technigo's bootcamp, week 13: build a quiz
+Weekly project for Technigo's bootcamp, week 13: build a quiz (April 2022)
 
-This week's project was a group project where we had to build a multiple choice quiz using Redux.
+## Tech stack
+
+- JavaScript
+- React
+- Redux
+- HTML
+- CSS
+- Styled components
 
 ## The problem
+
+This week's project was a group project where we had to build a multiple choice quiz using Redux.
 
 We set up the structure and the needed components in a Jamboard first. We aimed for styled components to practice them more.
 
